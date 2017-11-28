@@ -1,5 +1,5 @@
 This is a tcp chat application project for Computer Network class. 
-Group member: Pu Fang(61871845), Jingmin Yu(16318281)
+Group member: Pu Fang, Jingmin Yu
 Contribution: Pu Fang: UI and messgae instructions
               Jingmin Yu: File instructions
 
